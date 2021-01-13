@@ -1,4 +1,4 @@
-JavaScript Algorithms and Data Structures Projects: Palindrome Checker
+JAVASCRIPT ALGORITHMS AND DATA STRUCTURES PROJECTS: PALINDROME CHECKER
 
 Return true if the given string is a palindrome. Otherwise, return false.
 
